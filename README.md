@@ -18,3 +18,6 @@ SPIKE Prime でpythonコードを動作させる方法について
 
 -実行
 
+詳細は
+https://github.com/mhikichi1969/SPIKE-Prime-python/wiki
+
