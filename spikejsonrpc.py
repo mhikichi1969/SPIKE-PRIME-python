@@ -133,7 +133,6 @@ if __name__ == "__main__":
       start = rpc.start_write_program(name, size, args.to_slot, now, now)
       bs = start['blocksize']
       id = start['transferid']
-      print('ID='+str(id))
       with tqdm(total=size, unit='B', unit_scale=True) as pbar:
         b = f.read(bs)
         while b:
