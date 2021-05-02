@@ -21,3 +21,9 @@ SPIKE Prime でpythonコードを動作させる方法について
 詳細は
 https://github.com/mhikichi1969/SPIKE-Prime-python/wiki
 
+## 純正ソフトウェア以外でプログラムを転送する
+
+https://github.com/nutki/spike-tools
+
+おそらくSPIKEのファームウェアのバージョンの関係で改変しないと動くようにはならなかった。
+
